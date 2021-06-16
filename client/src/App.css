@@ -1,0 +1,18 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(49, 49, 49);
+    color: #fff;
+    height: 50px;
+    align-content: space-between;
+}
+.icon{
+    font-size: 30px;
+    margin-right: 5px;
+}
+body{
+    background-color: #000;
+}
+.container{
+    padding: 0 5px;
+}
